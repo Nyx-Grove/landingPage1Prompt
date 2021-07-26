@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easy-pescatarian-recipes-1557518379.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*);
+    background-size: 100%;
+
+}
+
+.content{
+    text-align: center;
+    background-color: rgba(0,0,0,0.2);
+    color: seashell;
+}
